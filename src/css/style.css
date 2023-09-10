@@ -2,6 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #e5e5e5;
   padding: 40px;
+  font-size: 14px;
 }
 
 .wrapper {
@@ -37,7 +38,6 @@ body {
 .my-profession {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
   line-height: 17px;
   color: #000000;
   margin: 0 0 18px 0;
@@ -107,7 +107,6 @@ body {
 .work-experience-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
   line-height: 20px;
   color: #000000;
   margin: 0;
@@ -126,7 +125,6 @@ body {
 .work-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
   margin: 12px 0 8px 0;
@@ -135,7 +133,6 @@ body {
 .work-duties {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
   line-height: 24px;
   color: #595959;
 }
@@ -180,7 +177,6 @@ body {
 .education-duration {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
   margin: 12px 0 0 0;
