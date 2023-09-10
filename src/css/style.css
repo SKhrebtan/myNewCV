@@ -232,7 +232,13 @@ body {
   line-height: 24px;
   color: #2979ff;
 }
-
+.contact-town {
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
 .contacts-number {
   text-decoration: none;
 }
