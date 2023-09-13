@@ -233,6 +233,10 @@ body {
   margin: 0;
 }
 
+.contacts-item:not(:last-child) {
+  margin-top: 5px;
+}
+
 .contacts {
   display: block;
   font-style: normal;
@@ -250,11 +254,34 @@ body {
   color: #fff;
 }
 .contacts-number {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
   text-decoration: none;
 }
 
 .contacts-email {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
   text-decoration: none;
+}
+
+.contacts-linkedin {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+}
+.contacts-github {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+}
+
+.contacts-telegram {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
 }
 
 .contacts:hover {
@@ -354,4 +381,15 @@ body {
   height: 2px;
   width: 100%;
   top: 10px;
+}
+
+.phone-span {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffa200;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
 }
