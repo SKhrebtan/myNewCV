@@ -390,6 +390,36 @@ body {
   align-items: center;
   background-color: #ffa200;
   border-radius: 50%;
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-social {
+  fill: #fff;
+  stroke: #fff;
+}
+
+.icon-main {
+  fill: #000;
+  stroke: #000;
+}
+
+.svgspan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 22px;
+  height: 22px;
+  background-color: #ffa200;
+  border-radius: 50%;
+}
+
+.svgmainspan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  background-color: #ffa200;
+  border-radius: 50%;
 }
