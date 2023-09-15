@@ -217,6 +217,7 @@ body {
 .sidebar-title-img {
   position: absolute;
   left: -30px;
+  top: 2px;
 }
 
 /* Contacts-type */
@@ -349,13 +350,17 @@ body {
 }
 .sidebar-title::after {
   content: '';
-
+  position: relative;
   display: block;
   height: 2px;
   width: 100%;
   background-color: #ffa200;
-  bottom: -1px;
+  bottom: -3px;
   left: 0;
+}
+
+.sidebar-title-languages::after {
+  bottom: -1px;
 }
 
 .contacts-container {
@@ -433,4 +438,9 @@ body {
 
 .contacts-svg {
   left: -35px;
+  top: 0px;
+}
+
+.sidebar-soft-title-img {
+  left: -26px;
 }
