@@ -1,7 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #e5e5e5;
-  /* padding: 40px; */
+  padding: 40px;
   font-size: 14px;
   margin: 0;
   /* width: 1200px; */
@@ -29,7 +29,7 @@ body {
   font-size: 22px;
   /* line-height: 27px; */
   color: #000000;
-  /* margin: 0 0 16px 0; */
+  margin: 0 0 16px 0;
 }
 
 /* About me */
@@ -357,7 +357,6 @@ body {
   height: 2px;
   width: 100%;
   background-color: #ffa200;
-  bottom: -3px;
   left: 0;
 }
 
