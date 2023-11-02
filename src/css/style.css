@@ -20,7 +20,7 @@ body {
 
 .main-content {
   width: 100%;
-  padding: 44px 0px 44px 88px;
+  padding: 22px 0px 44px 88px;
 }
 
 .main-content-title {
@@ -168,7 +168,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #ffa200;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .education-spec {
@@ -177,6 +177,7 @@ body {
   font-size: 14px;
   line-height: 17px;
   color: #000000;
+  margin: 10px 0;
 }
 
 .education-duration {
