@@ -250,7 +250,10 @@ body {
   color: #fff;
 }
 .contact-town {
+  margin-top: 4px;
   display: block;
+  display: flex;
+  gap: 10px;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
